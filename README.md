@@ -12,3 +12,6 @@ enabling stakeholders to monitor and analyze credit card operations effectively.
 - Power Query
 - DAX
 - SQL
+
+# Dashboard
+This project includes interactive Power BI dashboards for Credit Card Transaction Analysis and Customer Analysis.
